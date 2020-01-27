@@ -1,0 +1,29 @@
+h1 {
+    overflow: hidden;
+    background-color: #302f2f;
+    padding: 20px 10px;  
+    float: left;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+header .logo {  
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffff;
+}
+header :hover {
+    background-color: rgb(122, 255, 189);
+    color: black;
+}
+header .active {
+    background-color: dodgerblue;
+    color: white;
+}
+.header-right {
+    float: center;
+}
