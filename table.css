@@ -1,9 +1,13 @@
-table.css {
+table {
     display: table;
     border-collapse: separate;
     border-spacing: 2px;
     border-color: rgb(66, 65, 65)
 }       
-.container {
-    display:  [ <display-outside> || <display-inside> ] | <display-listitem> | <display-internal> | <display-box> | <display-legacy> ;
+{
+    border-radius: 2px;
+    border: 2px solid #00000;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
   }
