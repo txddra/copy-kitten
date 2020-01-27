@@ -1,0 +1,27 @@
+<a href="#" class="myButton">it's a cool 3D button!</a>
+
+Button {
+	background:linear-gradient(to bottom, #59a0e2 5%, #59a0e2 100%);
+	background-color:#59a0e2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+Button:hover {
+	background:linear-gradient(to bottom, #59a0e2 5%, #59a0e2 100%);
+	background-color:#59a0e2;
+}
+Button:active {
+	position:relative;
+	top:1px;
+}
+
+        
+
